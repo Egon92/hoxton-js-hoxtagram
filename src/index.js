@@ -1,18 +1,5 @@
 const states = {
-    images: [
-      {
-        "id": 1,
-        "title": "Coder dog",
-        "likes": 7,
-        "image": "./assets/coder-dog.png"
-      },
-      {
-        "id": 2,
-        "title": "Coder cats",
-        "likes": 5,
-        "image": "./assets/coder-cat.jpeg"
-      }
-    ]
+    images: []
   }
 
 
